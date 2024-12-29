@@ -1,0 +1,42 @@
+parents,subnodes
+granulocyte,basophil
+lymphocyte of B lineage,B cell
+lymphocyte of B lineage,antibody secreting cell
+lymphocyte,T cell
+lymphocyte,lymphocyte of B lineage
+lymphocyte,innate lymphoid cell
+antibody secreting cell,plasma cell
+progenitor cell,megakaryocyte-erythroid progenitor cell
+progenitor cell,monocyte
+progenitor cell,erythroblast
+progenitor cell,myeloid lineage restricted progenitor cell
+blood cell,granulocyte
+myeloid leukocyte,macrophage
+hematopoietic cell,blood cell
+hematopoietic cell,myeloid cell
+hematopoietic cell,hematopoietic precursor cell
+myeloid lineage restricted progenitor cell,erythroid progenitor cell
+myeloid lineage restricted progenitor cell,granulocytopoietic cell
+cell,eukaryotic cell
+cell,hematopoietic cell
+cell,nucleate cell
+cell,precursor cell
+group 1 innate lymphoid cell,natural killer cell
+T cell,mature T cell
+leukocyte,professional antigen presenting cell
+leukocyte,mononuclear cell
+precursor cell,progenitor cell
+mature T cell,naive T cell
+eukaryotic cell,leukocyte
+mononuclear cell,lymphocyte
+nucleate cell,proerythroblast
+erythroid progenitor cell,"erythroid progenitor cell, mammalian"
+mature B cell,naive B cell
+B cell,"B cell, CD19-positive"
+precursor B cell,late pro-B cell
+myeloid cell,promonocyte
+myeloid cell,myeloid leukocyte
+"B cell, CD19-positive",immature B cell
+"B cell, CD19-positive",precursor B cell
+professional antigen presenting cell,mature B cell
+innate lymphoid cell,group 1 innate lymphoid cell
